@@ -1,0 +1,3 @@
+[user]
+name = {{.name}}[bot]
+email = {{.userid}}+{{.name}}[bot]@users.noreply.github.com
